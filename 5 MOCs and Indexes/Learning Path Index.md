@@ -30,7 +30,7 @@ This is the linear study sequence for 5G NR PHY.
 21. [[08 PUSCH]]
 22. [[09 PUCCH]]
 23. [[10 SRS]]
-24. [[11 Synchronization and attach procedures]]
+24. [[Attach_Procedure-I]]
 
 ## Related map
 - [[Wireless Communication MOC]]

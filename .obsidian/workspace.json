@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dacca9b7a6373691",
+        "id": "78f3d60f6116a10f",
         "type": "tabs",
         "children": [
           {
-            "id": "330097066aeb8587",
+            "id": "87f71e4934c918d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CSI"
+              "title": "New tab"
             }
           }
         ]
@@ -188,20 +184,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "330097066aeb8587",
+  "active": "87f71e4934c918d3",
   "lastOpenFiles": [
+    "4 5G NR PHY Learning Path/NR-SI/SIBs.md",
+    "4 5G NR PHY Learning Path/NR-ATTACH-PROCEDURE/Attach_Procedure-I.md",
+    "6 Attachments/si_pdcch_config_common.png",
+    "6 Attachments/si_bwp_dl_common.png",
+    "6 Attachments/si_dl_config_common_sib.png",
+    "6 Attachments/si_serving_cell_common.png",
+    "6 Attachments/si_time_scheduling_naman.png",
+    "6 Attachments/si-scheduling_info2.png",
+    "6 Attachments/si_request_config_resources.png",
+    "6 Attachments/si_scheduling_info_element.png",
+    "6 Attachments/si_scheduling_info.png",
+    "6 Attachments/si_sib1_main.png",
+    "4 5G NR PHY Learning Path/NR-SI/MIB.md",
+    "4 5G NR PHY Learning Path/NR-SI",
+    "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
     "4 5G NR PHY Learning Path/NR-PDCCH/PDCCH.md",
-    "6 Attachments/dci_1_0_si_rnti.png",
     "4 5G NR PHY Learning Path/NR-DCIs",
-    "6 Attachments/pdcch_aggregation_level_info.png",
-    "6 Attachments/pdcch_aggregation_level.png",
-    "6 Attachments/pdcch_coreset_indepth_sfn.png",
-    "6 Attachments/pdcch_coreset_indepth_calc.png",
-    "6 Attachments/pdcch_coreset_calculation.png",
-    "6 Attachments/pdcch_searchspace_table.png",
-    "6 Attachments/pdcch_coreset_table.png",
-    "6 Attachments/pdcch_rrc_config_mib.png",
-    "6 Attachments/pdcch_searchspace_type_summary.png",
     "4 5G NR PHY Learning Path/NR-SSB_PBCH/SSB.md",
     "4 5G NR PHY Learning Path/NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
     "4 5G NR PHY Learning Path/NR-PSS/02 PSS and SSS.md",
@@ -215,7 +216,6 @@
     "4 5G NR PHY Learning Path/NR-SRS",
     "4 5G NR PHY Learning Path/NR-PUCCH",
     "4 5G NR PHY Learning Path/NR-PRACH",
-    "4 5G NR PHY Learning Path/NR-PDSCH",
     "4 5G NR PHY Learning Path/NR-PUSCH/PUSCH_transport_block_processing.md",
     "3 Wireless Communication/Error Correcting Codes/LDPC.md",
     "4 5G NR PHY Learning Path/NR-PUSCH/Introduction to NR-PUSCH.md",
@@ -230,11 +230,6 @@
     "5 MOCs and Indexes/5G PHY MOC.md",
     "5 MOCs and Indexes/Learning Path Index.md",
     "5 MOCs and Indexes/Wireless Communication MOC.md",
-    "4 5G NR PHY Learning Path/PSS and SSS.md",
-    "4 5G NR PHY Learning Path/SRS.md",
-    "4 5G NR PHY Learning Path/PRACH.md",
-    "4 5G NR PHY Learning Path/PUCCH.md",
-    "4 5G NR PHY Learning Path/PDSCH.md",
-    "4 5G NR PHY Learning Path/NR-SRS/10 SRS.md"
+    "4 5G NR PHY Learning Path/PSS and SSS.md"
   ]
 }
