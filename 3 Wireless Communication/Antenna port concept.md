@@ -11,4 +11,4 @@ The concept helps separate:
 ## Related notes
 - [[MIMO]]
 - [[Beamforming]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]

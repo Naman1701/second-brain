@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb4524bdc19adf4e",
+        "id": "dacca9b7a6373691",
         "type": "tabs",
         "children": [
           {
-            "id": "034f902561cba88f",
+            "id": "330097066aeb8587",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CSI"
             }
           }
         ]
@@ -184,21 +188,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "034f902561cba88f",
+  "active": "330097066aeb8587",
   "lastOpenFiles": [
+    "4 5G NR PHY Learning Path/NR-PDCCH/PDCCH.md",
+    "6 Attachments/dci_1_0_si_rnti.png",
+    "4 5G NR PHY Learning Path/NR-DCIs",
+    "6 Attachments/pdcch_aggregation_level_info.png",
+    "6 Attachments/pdcch_aggregation_level.png",
+    "6 Attachments/pdcch_coreset_indepth_sfn.png",
+    "6 Attachments/pdcch_coreset_indepth_calc.png",
+    "6 Attachments/pdcch_coreset_calculation.png",
+    "6 Attachments/pdcch_searchspace_table.png",
+    "6 Attachments/pdcch_coreset_table.png",
+    "6 Attachments/pdcch_rrc_config_mib.png",
+    "6 Attachments/pdcch_searchspace_type_summary.png",
+    "4 5G NR PHY Learning Path/NR-SSB_PBCH/SSB.md",
+    "4 5G NR PHY Learning Path/NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
+    "4 5G NR PHY Learning Path/NR-PSS/02 PSS and SSS.md",
     "4 5G NR PHY Learning Path/NR-BWP/Bandwidth Part (BWP) in 5G NR.md",
     "4 5G NR PHY Learning Path/NR-BWP/recovered doc.md",
-    "6 Attachments/bwp_spectrum_handling.png",
-    "6 Attachments/bwp_motivation_table.png",
-    "6 Attachments/bwp_A_CRB_bwps.png",
-    "6 Attachments/bwp_coreset0_table.png",
-    "6 Attachments/bwp_point_A_CRB.png",
-    "6 Attachments/bwp_equation_2.png",
-    "6 Attachments/bwp_equation_1.png",
-    "6 Attachments/bwp_bwps_types_table.png",
-    "6 Attachments/bwp_rrc_table.png",
-    "6 Attachments/bwp_bwp_swithing.png",
-    "4 5G NR PHY Learning Path/NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
     "4 5G NR PHY Learning Path/NR-BWP",
     "4 5G NR PHY Learning Path/04 NR-PDCCH/Untitled",
     "4 5G NR PHY Learning Path/NR-SSS",
@@ -208,14 +216,12 @@
     "4 5G NR PHY Learning Path/NR-PUCCH",
     "4 5G NR PHY Learning Path/NR-PRACH",
     "4 5G NR PHY Learning Path/NR-PDSCH",
-    "4 5G NR PHY Learning Path/NR-CSI",
     "4 5G NR PHY Learning Path/NR-PUSCH/PUSCH_transport_block_processing.md",
     "3 Wireless Communication/Error Correcting Codes/LDPC.md",
     "4 5G NR PHY Learning Path/NR-PUSCH/Introduction to NR-PUSCH.md",
     "4 5G NR PHY Learning Path/PDCCH.md",
     "4 5G NR PHY Learning Path/PUSCH.md",
     "4 5G NR PHY Learning Path/PBCH and MIB.md",
-    "4 5G NR PHY Learning Path/NR-PBCH_MIB/03 PBCH and MIB.md",
     "1 Mathematical foundations/Read_Me_Mathematical_Foundations.md",
     "7 Temporary Thoughts/Temporary thoughts.md",
     "6 Attachments/Attachment index.md",
@@ -229,7 +235,6 @@
     "4 5G NR PHY Learning Path/PRACH.md",
     "4 5G NR PHY Learning Path/PUCCH.md",
     "4 5G NR PHY Learning Path/PDSCH.md",
-    "4 5G NR PHY Learning Path/NR-SRS/10 SRS.md",
-    "4 5G NR PHY Learning Path/NR-ATTACH-PROCEDURE/11 Synchronization and attach procedures.md"
+    "4 5G NR PHY Learning Path/NR-SRS/10 SRS.md"
   ]
 }

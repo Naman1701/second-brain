@@ -11,6 +11,6 @@ PDSCH carries the user data on the downlink.
 
 ## Related topics
 - [[PDCCH]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 - [[OFDM]]
 - [[Modulation]]

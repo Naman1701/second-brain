@@ -11,5 +11,5 @@ This chapter captures the end-to-end procedure of cell acquisition and network a
 
 ## Related topics
 - [[02 PSS and SSS]]
-- [[03 PBCH and MIB]]
+- [[SSB]]
 - [[PRACH]]

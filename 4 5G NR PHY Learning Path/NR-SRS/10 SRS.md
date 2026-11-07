@@ -9,6 +9,6 @@ SRS is the sounding reference signal used for uplink channel sounding and beam m
 - mobility and coverage estimation
 
 ## Related topics
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 - [[Beamforming]]
 - [[MIMO]]

@@ -10,5 +10,5 @@ PUCCH carries uplink control information.
 
 ## Related topics
 - [[PUSCH]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 - [[PDCCH]]

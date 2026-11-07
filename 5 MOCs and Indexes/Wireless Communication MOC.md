@@ -28,7 +28,7 @@ This page links the main concepts in wireless communication.
 - [[MIMO]]
 - [[Beamforming]]
 - [[Antenna port concept]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 
 ## 5G links
 - [[5G NR PHY MOC]]

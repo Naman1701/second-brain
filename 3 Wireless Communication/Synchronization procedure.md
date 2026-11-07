@@ -4,5 +4,5 @@ Synchronization is the process by which the UE finds the serving cell and aligns
 
 ## Related notes
 - [[02 PSS and SSS]]
-- [[03 PBCH and MIB]]
+- [[SSB]]
 - [[11 Synchronization and attach procedures]]

@@ -14,6 +14,6 @@ MIMO is central to modern wireless systems, especially in 5G.
 
 ## Related topics
 - [[Beamforming]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 - [[Antenna port concept]]
 - [[OFDM]]

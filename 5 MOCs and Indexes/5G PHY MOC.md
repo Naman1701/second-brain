@@ -20,7 +20,7 @@ This page maps the main physical-layer topics in 5G.
 - [[PUCCH]]
 - [[PRACH]]
 - [[SRS]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 
 ## Related concepts
 - [[Wireless channel]]

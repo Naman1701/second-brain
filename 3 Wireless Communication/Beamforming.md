@@ -17,5 +17,5 @@ Beamforming is especially important for:
 
 ## Related topics
 - [[MIMO]]
-- [[CSI]]
+- [[3 Wireless Communication/CSI/CSI]]
 - [[Antenna port concept]]

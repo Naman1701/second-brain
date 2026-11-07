@@ -17,14 +17,14 @@ This is the linear study sequence for 5G NR PHY.
 10. [[OFDM]]
 11. [[MIMO]]
 12. [[Beamforming]]
-13. [[CSI]]
+13. [[3 Wireless Communication/CSI/CSI]]
 
 ## 5G NR learning path
 14. [[01 Introduction to frame structure and numerology]]
 15. [[02 PSS and SSS]]
-16. [[03 PBCH and MIB]]
-17. [[04 PDCCH]]
-18. [[05 CSI]]
+16. [[SSB]]
+17. [[PDCCH]]
+18. [[4 5G NR PHY Learning Path/NR-CSI/CSI]]
 19. [[06 PDSCH]]
 20. [[07 PRACH]]
 21. [[08 PUSCH]]
