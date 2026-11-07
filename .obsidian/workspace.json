@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "0033f1d146cd6e63",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d9335cf8433da93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b5d4c0eb34117f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/01 NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Introduction to frame structure and numerology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e673da0db4a2b916",
+    "type": "split",
+    "children": [
+      {
+        "id": "094f9ff2e3c5ac58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab99980b35c8abc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64c25e7a33e638bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Title",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03c00fde5070c49f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.16668701171875
+  },
+  "right": {
+    "id": "c0e27bfc856cf7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "de34b6b649653dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a4e4c2254050c8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/01 NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b53ace6d00897dc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/01 NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "814d58771564f1e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30cdf524c97e6a16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b3314a383fd65e61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/01 NR-INTRODUCTION/01 Introduction to frame structure and numerology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9ab99980b35c8abc",
+  "lastOpenFiles": [
+    "PREVIOUS-NOTES",
+    "4 5G NR PHY Learning Path/11 NR-ATTACH_PROCEDURE",
+    "4 5G NR PHY Learning Path/10 NR-SRS",
+    "4 5G NR PHY Learning Path/09 NR-PUCCH",
+    "4 5G NR PHY Learning Path/07 NR-PRACH",
+    "4 5G NR PHY Learning Path/06 NR-PDSCH",
+    "4 5G NR PHY Learning Path/05 NR-CSI",
+    "4 5G NR PHY Learning Path/04 NR-PDCCH",
+    "4 5G NR PHY Learning Path/03 NR-PBCH_MIB",
+    "4 5G NR PHY Learning Path/02 NR-PSS_SSS",
+    "4 5G NR PHY Learning Path/01 NR-INTRODUCTION",
+    "4 5G NR PHY Learning Path/08 NR-PUSCH/PUSCH_transport_block_processing.md",
+    "3 Wireless Communication/Error Correcting Codes/LDPC.md",
+    "4 5G NR PHY Learning Path/08 NR-PUSCH/Introduction to NR-PUSCH.md",
+    "6 Attachments/pusch_base_graph_selection.png",
+    "6 Attachments/pusch_crc_processing.png",
+    "6 Attachments/pusch_crc_processing.jpg",
+    "6 Attachments/pusch_tb_processing.jpg",
+    "6 Attachments/pusch_tb_processing.bmp",
+    "6 Attachments/New Bitmap image.bmp",
+    "4 5G NR PHY Learning Path/PDCCH.md",
+    "4 5G NR PHY Learning Path/PUSCH.md",
+    "4 5G NR PHY Learning Path/PBCH and MIB.md",
+    "4 5G NR PHY Learning Path/03 NR-PBCH_MIB/03 PBCH and MIB.md",
+    "1 Mathematical foundations/Read_Me_Mathematical_Foundations.md",
+    "7 Temporary Thoughts/Temporary thoughts.md",
+    "6 Attachments/Attachment index.md",
+    "4 MOCs and Indexes/5G PHY MOC.md",
+    "5 MOCs and Indexes/Foundations index.md",
+    "5 MOCs and Indexes/5G PHY MOC.md",
+    "5 MOCs and Indexes/Learning Path Index.md",
+    "5 MOCs and Indexes/Wireless Communication MOC.md",
+    "4 5G NR PHY Learning Path/PSS and SSS.md",
+    "4 5G NR PHY Learning Path/SRS.md",
+    "4 5G NR PHY Learning Path/PRACH.md",
+    "4 5G NR PHY Learning Path/PUCCH.md",
+    "4 5G NR PHY Learning Path/PDSCH.md",
+    "4 5G NR PHY Learning Path/10 NR-SRS/10 SRS.md",
+    "4 5G NR PHY Learning Path/11 NR-ATTACH_PROCEDURE/11 Synchronization and attach procedures.md",
+    "4 5G NR PHY Learning Path/09 NR-PUCCH/09 PUCCH.md",
+    "4 5G NR PHY Learning Path/06 NR-PDSCH/06 PDSCH.md",
+    "4 5G NR PHY Learning Path/07 NR-PRACH/07 PRACH.md"
+  ]
+}
