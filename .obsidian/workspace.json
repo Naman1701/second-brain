@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78f3d60f6116a10f",
+        "id": "43f0bbdc1b180bad",
         "type": "tabs",
         "children": [
           {
-            "id": "87f71e4934c918d3",
+            "id": "0063c5fd6f2589c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CSI"
             }
           }
         ]
@@ -184,23 +188,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "87f71e4934c918d3",
+  "active": "0063c5fd6f2589c2",
   "lastOpenFiles": [
+    "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
+    "csi_im.md",
+    "6 Attachments/csi_pdsch_config_rrc.png",
+    "6 Attachments/csi_meas_config_rrc.png",
+    "6 Attachments/csi_report_config_rrc.png",
+    "6 Attachments/csi_report_config_rrc_2.png",
+    "6 Attachments/csi_resource_config_rrc.png",
+    "6 Attachments/csi_nzp_resource_set_rrc.png",
+    "6 Attachments/csi_ssb_resourceset_rrc.png",
+    "6 Attachments/csi_im_resource_set.png",
+    "6 Attachments/csi_nzp_resource_set.png",
+    "6 Attachments/csi_rs_resource_mapping.png",
+    "3 Wireless Communication/MIMO/Antenna port concept.md",
     "4 5G NR PHY Learning Path/NR-SI/SIBs.md",
     "4 5G NR PHY Learning Path/NR-ATTACH-PROCEDURE/Attach_Procedure-I.md",
-    "6 Attachments/si_pdcch_config_common.png",
-    "6 Attachments/si_bwp_dl_common.png",
-    "6 Attachments/si_dl_config_common_sib.png",
-    "6 Attachments/si_serving_cell_common.png",
-    "6 Attachments/si_time_scheduling_naman.png",
-    "6 Attachments/si-scheduling_info2.png",
-    "6 Attachments/si_request_config_resources.png",
-    "6 Attachments/si_scheduling_info_element.png",
-    "6 Attachments/si_scheduling_info.png",
-    "6 Attachments/si_sib1_main.png",
     "4 5G NR PHY Learning Path/NR-SI/MIB.md",
     "4 5G NR PHY Learning Path/NR-SI",
-    "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
     "4 5G NR PHY Learning Path/NR-PDCCH/PDCCH.md",
     "4 5G NR PHY Learning Path/NR-DCIs",
     "4 5G NR PHY Learning Path/NR-SSB_PBCH/SSB.md",
@@ -229,7 +235,6 @@
     "5 MOCs and Indexes/Foundations index.md",
     "5 MOCs and Indexes/5G PHY MOC.md",
     "5 MOCs and Indexes/Learning Path Index.md",
-    "5 MOCs and Indexes/Wireless Communication MOC.md",
-    "4 5G NR PHY Learning Path/PSS and SSS.md"
+    "5 MOCs and Indexes/Wireless Communication MOC.md"
   ]
 }
