@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
+                "file": "4 5G NR PHY Learning Path/NR-PRACH/PRACH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSI"
+              "title": "PRACH"
             }
           }
         ]
@@ -190,18 +190,19 @@
   },
   "active": "0063c5fd6f2589c2",
   "lastOpenFiles": [
+    "6 Attachments/rach_config_rrc.png",
+    "6 Attachments/beammapping_ssb_rach.png",
+    "6 Attachments/ssb_rach_mapping_pat4.png",
+    "6 Attachments/ssb_rach_mapping_pat3.png",
+    "6 Attachments/ssb_rach_mapping_pat2.png",
+    "6 Attachments/ssb_rach_mapping_pat1.png",
+    "6 Attachments/ssb_rach_mapping_rrc.png",
+    "6 Attachments/rach_crbpointA_RO_freq.png",
+    "6 Attachments/rach_ra_freq_strcut_equation3.png",
+    "6 Attachments/rach_dfRA_combination_kbar.png",
+    "6 Attachments/rach_freq_struct_eqaution2.png",
     "4 5G NR PHY Learning Path/NR-CSI/CSI.md",
     "csi_im.md",
-    "6 Attachments/csi_pdsch_config_rrc.png",
-    "6 Attachments/csi_meas_config_rrc.png",
-    "6 Attachments/csi_report_config_rrc.png",
-    "6 Attachments/csi_report_config_rrc_2.png",
-    "6 Attachments/csi_resource_config_rrc.png",
-    "6 Attachments/csi_nzp_resource_set_rrc.png",
-    "6 Attachments/csi_ssb_resourceset_rrc.png",
-    "6 Attachments/csi_im_resource_set.png",
-    "6 Attachments/csi_nzp_resource_set.png",
-    "6 Attachments/csi_rs_resource_mapping.png",
     "3 Wireless Communication/MIMO/Antenna port concept.md",
     "4 5G NR PHY Learning Path/NR-SI/SIBs.md",
     "4 5G NR PHY Learning Path/NR-ATTACH-PROCEDURE/Attach_Procedure-I.md",
@@ -234,7 +235,6 @@
     "4 MOCs and Indexes/5G PHY MOC.md",
     "5 MOCs and Indexes/Foundations index.md",
     "5 MOCs and Indexes/5G PHY MOC.md",
-    "5 MOCs and Indexes/Learning Path Index.md",
-    "5 MOCs and Indexes/Wireless Communication MOC.md"
+    "5 MOCs and Indexes/Learning Path Index.md"
   ]
 }

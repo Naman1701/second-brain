@@ -26,7 +26,7 @@ This is the linear study sequence for 5G NR PHY.
 17. [[PDCCH]]
 18. [[4 5G NR PHY Learning Path/NR-CSI/CSI]]
 19. [[06 PDSCH]]
-20. [[07 PRACH]]
+20. [[PRACH]]
 21. [[08 PUSCH]]
 22. [[09 PUCCH]]
 23. [[10 SRS]]
